@@ -36,24 +36,31 @@ Develop 10 SQL Queries:
 1.Customer Analysis:
    * Demographic Distribution: Analyze the distribution of customers based on gender, age (calculated from birthday),
  location (city, state, country, continent).
+
 2.Purchase Patterns:
    * Identify purchasing patterns such as average order value, frequency of purchases, and preferred products.
+
 3.Segmentation:
    * Segment customers based on demographics and purchasing behavior to identify key customer groups.
    
 4.Sales Analysis:
    * Overall Sales Performance: Analyze total sales over time, identifying trends and seasonality
+     
 5.Sales by Product: 
    * Evaluate which products are the top performers in terms of quantity sold and revenue generated.
+     
 6.Sales by Store:
    * Assess the performance of different stores based on sales data.
+
 7.Sales by Currency:
    * Examine how different currencies impact sales figures
 
 8.Product Analysis:
   * Product Popularity: Identify the most and least popular products based on sales data.
+    
 9.Profitability Analysis:
   * Calculate profit margins for products by comparing unit cost and unit price.
+    
 10.Category Analysis: 
   * Analyze sales performance across different product categories and subcategories.
 
