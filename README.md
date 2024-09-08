@@ -66,8 +66,8 @@ Category Analysis:
 
 # Tecnology used
 
-* python
-* sql
+* Python
+* SQL
 * PowerbI
  
  
