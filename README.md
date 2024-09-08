@@ -34,28 +34,31 @@ Develop 10 SQL Queries:
 # Analysis Steps:
 
 Customer Analysis:
-   Demographic Distribution: Analyze the distribution of customers based on gender, age (calculated from birthday), location (city, state, country, continent).
+   * Demographic Distribution: Analyze the distribution of customers based on gender, age (calculated from birthday), location (city, state, country, continent).
 Purchase Patterns:
-   Identify purchasing patterns such as average order value, frequency of purchases, and preferred products.
+   * Identify purchasing patterns such as average order value, frequency of purchases, and preferred products.
 Segmentation:
-   Segment customers based on demographics and purchasing behavior to identify key customer groups.
+   * Segment customers based on demographics and purchasing behavior to identify key customer groups.
    
 Sales Analysis:
-   Overall Sales Performance: Analyze total sales over time, identifying trends and seasonality
+   * Overall Sales Performance: Analyze total sales over time, identifying trends and seasonality
 Sales by Product: 
-   Evaluate which products are the top performers in terms of quantity sold and revenue generated.
+   * Evaluate which products are the top performers in terms of quantity sold and revenue generated.
 Sales by Store:
-   Assess the performance of different stores based on sales data.
+   * Assess the performance of different stores based on sales data.
 Sales by Currency:
-   Examine how different currencies impact sales figures
+   * Examine how different currencies impact sales figures
 
 Product Analysis:
-   Product Popularity: Identify the most and least popular products based on sales data.
+  * Product Popularity: Identify the most and least popular products based on sales data.
 Profitability Analysis:
-  Calculate profit margins for products by comparing unit cost and unit price.
+  * Calculate profit margins for products by comparing unit cost and unit price.
 Category Analysis: 
-   Analyze sales performance across different product categories and subcategories.
+  * Analyze sales performance across different product categories and subcategories.
 
 
 
+# Power BI Visualization
+
+![Screenshot 2024-09-09 004552](https://github.com/user-attachments/assets/265070ea-fe69-4979-9bf2-7df98147ecc5)
 
