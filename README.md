@@ -19,7 +19,7 @@ Data Cleaning and Preparation:
   * Check for missing values and handle them appropriately.
   * Convert data types where necessary (e.g., dates, numerical values).
   *  Merge datasets where necessary for analysis (e.g., linking sales data with product and customer data).
-  *  
+    
 Load Data:
   * Insert the preprocessed data into an SQL database by creating relevant tables for each data source and using SQL INSERT statements to load the data.
    
@@ -33,35 +33,35 @@ Develop 10 SQL Queries:
     
 # Analysis Steps:
 
-1.Customer Analysis:
+Customer Analysis:
    * Demographic Distribution: Analyze the distribution of customers based on gender, age (calculated from birthday),
  location (city, state, country, continent).
 
-2.Purchase Patterns:
+Purchase Patterns:
    * Identify purchasing patterns such as average order value, frequency of purchases, and preferred products.
 
-3.Segmentation:
+Segmentation:
    * Segment customers based on demographics and purchasing behavior to identify key customer groups.
    
-4.Sales Analysis:
+Sales Analysis:
    * Overall Sales Performance: Analyze total sales over time, identifying trends and seasonality
      
-5.Sales by Product: 
+Sales by Product: 
    * Evaluate which products are the top performers in terms of quantity sold and revenue generated.
      
-6.Sales by Store:
+Sales by Store:
    * Assess the performance of different stores based on sales data.
 
-7.Sales by Currency:
+Sales by Currency:
    * Examine how different currencies impact sales figures
 
-8.Product Analysis:
+Product Analysis:
   * Product Popularity: Identify the most and least popular products based on sales data.
     
-9.Profitability Analysis:
+Profitability Analysis:
   * Calculate profit margins for products by comparing unit cost and unit price.
     
-10.Category Analysis: 
+Category Analysis: 
   * Analyze sales performance across different product categories and subcategories.
 
 # Tecnology used
