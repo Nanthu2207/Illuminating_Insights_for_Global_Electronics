@@ -34,7 +34,8 @@ Develop 10 SQL Queries:
 # Analysis Steps:
 
 Customer Analysis:
-   * Demographic Distribution: Analyze the distribution of customers based on gender, age (calculated from birthday), location (city, state, country, continent).
+   * Demographic Distribution: Analyze the distribution of customers based on gender, age (calculated from birthday),
+ location (city, state, country, continent).
 Purchase Patterns:
    * Identify purchasing patterns such as average order value, frequency of purchases, and preferred products.
 Segmentation:
@@ -56,7 +57,20 @@ Profitability Analysis:
 Category Analysis: 
   * Analyze sales performance across different product categories and subcategories.
 
+# Tecnology used
 
+* python
+* sql
+* PowerbI
+ 
+ 
+# PACKAGES AND LIBRARIES
+
+ * pandas as pd
+ * mysql.connector
+ * import datetime as dt
+ * import MinMaxScaler
+  
 
 # Power BI Visualization
 
