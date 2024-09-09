@@ -81,5 +81,6 @@ Category Analysis:
 
 # Power BI Visualization
 
-![Screenshot 2024-09-09 004552](https://github.com/user-attachments/assets/265070ea-fe69-4979-9bf2-7df98147ecc5)
+![Screenshot 2024-09-09 234931](https://github.com/user-attachments/assets/014af411-4a97-4dfb-bbc6-113f5ab7df3f)
+
 
