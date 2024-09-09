@@ -64,6 +64,16 @@ Profitability Analysis:
 Category Analysis: 
   * Analyze sales performance across different product categories and subcategories.
 
+# Recommendations
+
+* Customer Strategies: Create marketing offers and loyalty programs for different customer groups.
+
+* Product Management:  promotions for the best and worst-selling products.
+
+* Store Optimization: Recommend opening or closing stores based on sales in different areas.
+
+* Pricing Strategy: Suggest price changes for international markets based on currency effects.
+
 # Tecnology used
 
 * Python
