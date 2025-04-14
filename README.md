@@ -1,8 +1,6 @@
 # Data Spark : Illuminating Insights for Global Electronics
-As part of Global Electronics' data analytics team, you are tasked with conducting a comprehensive Exploratory Data Analysis (EDA) to
-uncover valuable insights from the company’s data. Your goal is to provide actionable recommendations that can enhance customer satisfaction,
-optimize operations, and drive overall business growth. Global Electronics, a leading retailer of consumer electronics, has provided you with
-several datasets containing informationabout their customers, products, sales, stores, and currency exchange rates.
+ Global Electronics, a leading retailer of consumer electronics, has provided you with  several datasets containing informationabout their customers, products, sales, stores, and currency exchange rates. My goal is to provide actionable recommendations that can enhance customer satisfaction,
+optimize operations, and drive overall business growth..
 
 # Skills take away From This Project:
       * Data Cleaning and Preprocessing 
@@ -24,7 +22,7 @@ Load Data:
   * Insert the preprocessed data into an SQL database by creating relevant tables for each data source and using SQL INSERT statements to load the data.
    
 Power BI Visualization:
-  * Connect SQL to Power BI/Tableau, import the data, and create interactive dashboards.
+  * Connect SQL to Power BI, import the data, and create interactive dashboards.
 
 Develop 10 SQL Queries:
   * Formulate and execute 10 SQL queries to extract key insights from the data.
